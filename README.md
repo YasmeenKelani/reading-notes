@@ -1,5 +1,5 @@
 # reading-notes
-* My name is Yasmeen Al-Kelani, I'm 23 years old and this is my github profile [Yasmeen Al-Kelani](https://github.com/YasmeenKelani).
+* My name is Yasmeen Al-Kelani, I'm 23 years old and this is my GitHub profile [Yasmeen Al-Kelani](https://github.com/YasmeenKelani).
 * I'm styding Software Engineering Program – Luminus Technical University College and this is my graduation semester, I choose to take this course because I want to improve my skills and it's a great opportunity to be here.         
 ## Growth Mindset 
 * A growth mindset holds that one's essential talents may be developed via hard work and perseverance; intelligence and talent are just beginning points. A passion of learning is connected with a growth attitude. In a fixed mindset, on the other hand, intelligence and talent are perceived as fixed traits, implying that success is based only on these natural talents, with no need for additional development or effort.
