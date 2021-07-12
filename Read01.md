@@ -14,4 +14,4 @@
 ![GitHub pages](https://pages.github.com/images/code-editor@2x.png)
 * Project sites are linked to a specific GitHub project, such as a JavaScript library or a collection of recipes. A user's or an organization's site is linked to a GitHub account.
 * To publish a user site, you must create a repository owned by your user account that's named <username>.github.io. To publish an organization site, you must create a repository owned by an organization that's named <organization>.github.io. Unless you're using a custom domain, user and organization sites are available at http(s)://<username>.github.io or http(s)://<organization>.github.io.
-* For more information please vist [About GitHub](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
+* For more information please visit [About GitHub](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
