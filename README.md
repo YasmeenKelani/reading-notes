@@ -4,5 +4,5 @@
 # Table of content 
 Name | link
 ------------ | -------------
-Grothmindset |  https://yasmeenkelani.github.io/reading-notes/Grothmindset 
-Read01 |  https://yasmeenkelani.github.io/reading-notes/Read01
+Grothmindset | [Grothmindset](https://yasmeenkelani.github.io/reading-notes/Grothmindset)
+Read01 |[Read01](https://yasmeenkelani.github.io/reading-notes/Read01)
