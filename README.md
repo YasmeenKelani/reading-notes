@@ -10,3 +10,4 @@ Grothmindset | [Grothmindset](https://yasmeenkelani.github.io/reading-notes/Grot
 Read01 |[Read01](https://yasmeenkelani.github.io/reading-notes/Read01)
 Read02 |[Read02](https://yasmeenkelani.github.io/reading-notes/Read02)
 Read03 |[Read03](https://yasmeenkelani.github.io/reading-notes/Read03)
+Read04 |[Read04](https://yasmeenkelani.github.io/reading-notes/Read04)
