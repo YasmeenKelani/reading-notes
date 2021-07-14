@@ -8,4 +8,4 @@ Name | link
 ------------ | -------------
 Grothmindset | [Grothmindset](https://yasmeenkelani.github.io/reading-notes/Grothmindset)
 Read01 |[Read01](https://yasmeenkelani.github.io/reading-notes/Read01)
-Read02 |[Read02]()
+Read02 |[Read02](https://yasmeenkelani.github.io/reading-notes/Read02)
