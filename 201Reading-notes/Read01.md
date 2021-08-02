@@ -5,6 +5,7 @@
 
 ### HTML structure
 * Basic structure of an HTML document:
+
 ![structure](https://stuyhsdesign.files.wordpress.com/2015/09/basic-structure.png)
  
 * The basic structure of an HTML document consists of 5 elements:
@@ -46,8 +47,9 @@ block-level elements.
 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
 
 ### Process & Design
-![Design](http://riccentre.ca/wp-content/uploads/2019/11/WireframeExample-1024x782.png)
-* Wireframing is a UX design technique that allows designers to establish and arrange the information hierarchy of a website, app, or product. Based on the user research conducted by the UX design team, this approach focuses on how the designer or client wants the user to digest information on a site. For more information please visit [wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+* Wireframing is a UX design technique that allows designers to establish and arrange the information hierarchy of a website, app, or product. Based on the user research conducted by the UX design team, this approach focuses on how the designer or client wants the user to digest information on a site. For more information please visit [wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/).
+
+![Design](https://www.softwaretestinghelp.com/wp-content/qa/uploads/2015/12/wireframe-example-1.jpg)
 
 
 * Sumarization:
@@ -74,3 +76,5 @@ using size, color, and style.
 3. Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task programmatically.
 4. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help.
 ![ABC programming](https://miro.medium.com/max/1024/1*bcZz-qb_DNpvrNNwQBhQmQ.jpeg)
+
+please visit [THE ABC of programming](https://catalogimages.wiley.com/images/db/pdf/9781118531648.excerpt.pdf).
