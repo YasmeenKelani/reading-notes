@@ -6,17 +6,17 @@
 
 Name | link
 ------------ | -------------
-Grothmindset | [Grothmindset](https://yasmeenkelani.github.io/reading-notes/Grothmindset)
-Read01 |[Read01](https://yasmeenkelani.github.io/reading-notes/Read01)
-Read02 |[Read02](https://yasmeenkelani.github.io/reading-notes/Read02)
-Read03 |[Read03](https://yasmeenkelani.github.io/reading-notes/Read03)
-Read04 |[Read04](https://yasmeenkelani.github.io/reading-notes/Read04)
-Read05 |[Read05](https://yasmeenkelani.github.io/reading-notes/Read05)
-Read06 |[Read06](https://yasmeenkelani.github.io/reading-notes/Read06)
+Grothmindset | [Grothmindset](https://yasmeenkelani.github.io/reading-notes/102Reading-notes/Grothmindset)
+Read01 |[Read01](https://yasmeenkelani.github.io/reading-notes/102Reading-notes/Read01)
+Read02 |[Read02](https://yasmeenkelani.github.io/reading-notes/102Reading-notes/Read02)
+Read03 |[Read03](https://yasmeenkelani.github.io/reading-notes/102Reading-notes/Read03)
+Read04 |[Read04](https://yasmeenkelani.github.io/reading-notes/102Reading-notes/Read04)
+Read05 |[Read05](https://yasmeenkelani.github.io/reading-notes/102Reading-notes/Read05)
+Read06 |[Read06](https://yasmeenkelani.github.io/reading-notes/102Reading-notes/Read06)
 
 
 # 2o1 Table of content 
 
 Name | link
 ------------ | -------------
- class01| [class01]()
+ class01| [class01](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class01) 
