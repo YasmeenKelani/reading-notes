@@ -20,6 +20,7 @@ Read06 |[Read06](https://yasmeenkelani.github.io/reading-notes/102Reading-notes/
 Name | link
 ------------ | -------------
  class01| [class01](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class01) 
-  class02| [class02](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class02)
-   class03| [class03](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class03)
+ class02| [class02](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class02)
+ class03| [class03](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class03)
+ class04| [class04](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class04)
    
