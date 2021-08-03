@@ -1,5 +1,5 @@
 # Lists
-1[html lists](https://www.techfry.com/images/articles/html/html-lists.jpg)
+![html lists](https://www.techfry.com/images/articles/html/html-lists.jpg)
 * There are lots of occasions when we need to use lists. HTML provides us with three different types:
 1. Ordered lists: are lists where each item in the list is numbered. For example, the list might be a set of steps for a recipe that must be performed in order, or a legal contract where each point needs to be identified by a section number.
 
