@@ -46,6 +46,7 @@ var hotel = { name: 'Park', rooms : 120, booked:  77, c03/js/ object- l iteral2.
 **THE DOM TREE IS A MODEL OF A WEB PAGE**
 * As a browser loads a web page, it creates a model of t hat page. The model is called a DOM t ree, and it is stored in the browsers' memory. It consists of four main types of nodes. 
 * BODY OF HTML PAGE
+
 ```
 <html> <body> <div  id="page"> <hl id="header">List</hl> <h2>Buy groceries</h2> <ul> <li id="one" class="hot"><em>fresh</em> figs</li> <li id="two" class="hot">pine nuts</l i> <l i  id="three" class="hot">honey</li > <l i  id="four">balsamic vinegar</l i> </ul> <script src="js/l i st.js"></scri pt> </ div> </body> </ html>
 ```
@@ -53,6 +54,7 @@ var hotel = { name: 'Park', rooms : 120, booked:  77, c03/js/ object- l iteral2.
 * ELEMENT NODES HTML elements describe the structure of an HTML page. (The < hl > -< h6> elements describe what parts are headings; the < p> tags indicate where paragraphs of text start and finish; and so on.) To access the DOM tree, you start by looking for elements. Once you find the element you want, then you can access its text and attribute nodes if you want to. This is why you start by learning methods that allow you to access element nodes, before learning to access and alter text or attributes.
 * Each node is an object with methods and properties. Scripts access and update this DOM tree (not the source HTML file). Any changes made to the DOM tree are reflected in  the browser.
 * DOM TREE:
+
 ![Dom tree](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
 
 * ATTRIBUTE NODES: attribute I text The opening tags of HTML elements can carry attributes and these are represented by attribute nodes in the DOM tree. 
@@ -64,14 +66,17 @@ var hotel = { name: 'Park', rooms : 120, booked:  77, c03/js/ object- l iteral2.
 
  **SELECTING ELEMENTS USING ID ATTRIBUTES** 
  * HTML
+
  ```
  <hl id="header">List King<lhl> <h2>Buy groceries<lh2> <ul> <li id="one" class="hot"><em>fresh<lem> figs<lli> <li id="two" class="hot">pine nut s<lli> <li id="three" class="hot">honey<lli> <li id="four">balsamic vi negar<lli> </ul> 
  ```
  * JavaScript
+
  ```
  Select the element and store it in a  variable. var el = document.getElementByid('one'); II Change the value of the class attribute. el.className ='cool' ; 
  ```
  * EXAMPLE DOCUMENT OBJECT MODEL:
+ 
  ```
  var list Items = document.querySelectorAl l (' l i '); /!All <li>  elements //ADD A CLASS OF COOL TO ALL LIST ITEMS var i; for (i = 0; i  < listltems. length; i++) { listltems[i] .className = 'cool'; } //Counter variable // Loop through elements //Change class to cool //ADD NUMBER OF ITEMS IN THE LIST TO THE HEADING var heading= document. querySelector('h2'); // h2 element // h2 text var headingText = heading.firstChild.nodeValue; var totalltems = listitems.l ength; //No. of <li> elements + '</span>';// Content //Update h2 var newHeading = headingText + '<span>' + totalitems heading.textContent = newHeading; 
  ```
