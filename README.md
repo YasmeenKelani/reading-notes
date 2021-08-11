@@ -27,3 +27,4 @@ Name | link
  class06| [class06](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class06)
  class07| [class07](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class07)
  class08| [class08](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class08)
+class09| [class09]( https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class09)
