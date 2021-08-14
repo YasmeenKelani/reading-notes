@@ -29,3 +29,4 @@ Name | link
  class08| [class08](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class08)
 class09| [class09]( https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class09)
 class10| [class10](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class10)
+class11| [class11](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class11)
