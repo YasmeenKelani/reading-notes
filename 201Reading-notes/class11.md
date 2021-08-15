@@ -101,7 +101,5 @@ HTML5 comes with elements for embedding rich media in documents — `<video>` an
 ## summary
 
 1. To put your site on the web, you will need to obtain a domain name and web hosting.
-
 2. FTP programs allow you to transfer files from your local computer to your web server.
-
 3. Many companies provide platforms for blogging, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch). please visit [Practical information](https://dictionary.cambridge.org/example/english/practical-information).
