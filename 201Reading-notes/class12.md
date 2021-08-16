@@ -1,6 +1,7 @@
 # Basic usage of canvas
 * Let's start this tutorial by looking at the < canvas> HTML element itself. At the end of this page, you will know how to set up a canvas 2D context and have drawn a first example in your browser.
 * The < canvas> element:
+
 ```
 <canvas id="tutorial" width="150" height="150"></canvas>
 ```
