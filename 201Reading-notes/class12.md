@@ -10,6 +10,7 @@ At first sight a < canvas> looks like the < img> element, with the only clear di
 <img src="https://miro.medium.com/max/1006/0*y7IF3MXZ0BjfUHp7" alt="summary" width="600"/>
 
 * A skeleton template:
+
 ```
 <!DOCTYPE html>
 <html>
@@ -34,6 +35,7 @@ At first sight a < canvas> looks like the < img> element, with the only clear di
 </html>
 ```
 * A simple example:
+
 ```
 <!DOCTYPE html>
 <html>
