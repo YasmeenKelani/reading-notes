@@ -33,3 +33,4 @@ class11| [class11](https://yasmeenkelani.github.io/reading-notes/201Reading-note
 class12| [class12](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class12)
 class13| [class13](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class13)
 class14a| [class14a](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class14a)
+class14b| [class14b](https://yasmeenkelani.github.io/reading-notes/201Reading-notes/class14b)
