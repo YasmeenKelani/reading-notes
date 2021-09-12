@@ -39,4 +39,4 @@ class14b| [class14b](https://yasmeenkelani.github.io/reading-notes/201Reading-no
 
 Name | link
 ------------ | -------------
- class01| [class01]() 
+ class01| [class01](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class01) 
