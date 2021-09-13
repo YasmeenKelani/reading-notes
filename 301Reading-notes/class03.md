@@ -89,6 +89,7 @@ console.log(fewMoreFruit)
 
 ---
 
+* Passing Functions Between Components:
 
 + In the video, what is the first step that the developer does to pass functions between components?
 
@@ -102,23 +103,3 @@ it adds one to the value.
 
 + How does the child component invoke a method that was passed to it from a parent component?
 we call that method like this: `this.props.increament()`
-
-
-
-* Passing Functions Between Components
-
-1. In the video, what is the first step that the developer does to pass functions between components?
-
-He used the **map() function** to loop over the array of objects.
-
-2. In your own words, what does the **increment** function do?
-
-This function **loops over the array of objects** to **find the passed name** to be able to **update/increment the count**.
-
-3. How can you pass a method from a parent component into a child component?
-
-In order to **pass a method** from a **parent** to a **child** you basically need to use **props**.
-
-4. How does the child component invoke a method that was passed to it from a parent component?
-
-The **child** can **invoke** a **method** that was **passed to it from the parent** by **making a prop out of it** and then **using the prop to access the method and invoke it**. **ex**: `this.props.methodName();
