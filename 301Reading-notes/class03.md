@@ -89,7 +89,7 @@ console.log(fewMoreFruit)
 
 ---
 
-* Passing Functions Between Components:
+**Passing Functions Between Components:**
 
 + In the video, what is the first step that the developer does to pass functions between components?
 
