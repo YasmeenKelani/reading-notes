@@ -57,6 +57,7 @@ We have to ways :
     This will create and auto-populate a package.json file in the same folder.
 
 ## 6 Reasons for Pair Programming :
+
 **`pair programming`** commonly involves two roles : 
 
 * The Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard.
@@ -64,6 +65,7 @@ We have to ways :
 * The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
 
 What are the 6 reasons for pair programming ?
+
 1. Greater efficiency
 2. Engaged collaboration
 3. Learning from fellow students
