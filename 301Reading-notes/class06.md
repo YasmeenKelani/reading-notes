@@ -70,5 +70,3 @@ What are the 6 reasons for pair programming ?
 4. Social skills
 5. Job interview readiness
 6. Work environment readiness
-
-For me what drive me in pair programming is **`Learning from fellow students`** because everyone has a different approach to problem solving, and working with a teammate can expose me to techniques I would not have thought of.
