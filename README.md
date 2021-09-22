@@ -47,3 +47,5 @@ class05| [class05](https://yasmeenkelani.github.io/reading-notes/301Reading-note
 class06| [class06](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class06)  
 class07| [class07](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class07)  
 class08| [class08](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class08)  
+class09| [class09](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class09)
+class10| [class10](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class10)    
