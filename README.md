@@ -52,3 +52,4 @@ class10| [class10](https://yasmeenkelani.github.io/reading-notes/301Reading-note
 class11| [class11](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class11)  
 class12| [class12](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class12)
 class13| [class13](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class13)
+class14| [class14](https://yasmeenkelani.github.io/reading-notes/301Reading-notes/class14)
