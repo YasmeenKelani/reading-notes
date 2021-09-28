@@ -10,4 +10,4 @@ Types of books, their index and pictures.
 
 3. What API(s) could you use to make this a reality ?
 
-We have to create our own API. 
+We have to create our own API.
